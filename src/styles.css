@@ -1,1 +1,6 @@
 /* You can add global styles to this file, and also import other style files */
+body{
+    background-image: url(https://www.pixelstalk.net/wp-content/uploads/images2/Teal-Background-768x432.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
